@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/pixel-art-brain-with-eyes-icon_41992-1199.jpg?w=740" width="27px">
+  <img src="https://img.freepik.com/premium-vector/pixel-art-brain-with-eyes-icon_41992-1199.jpg?w=740" width="50px">
   <br><br>
   <samp>
 - 👋 Hi, I’m Asmina from KZ<br>
