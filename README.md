@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://art.pixilart.com/a10e402c50554f1.gif" width="150px">
+  <img src="https://art.pixilart.com/a10e402c50554f1.gif" width="70px">
   <br><br>
   <samp>
 - 👋 Hi, I’m Asmina from KZ<br>
