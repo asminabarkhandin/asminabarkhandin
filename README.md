@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://img.freepik.com/premium-vector/pixel-art-brain-with-eyes-icon_41992-1199.jpg?w=740" width="27px">
   <br><br>
   <samp>
-    ## About me
-- 👋 Hi, I’m @asminabarkhandin
-- 💗 I’m interested in Deep Learning and Computer Vision
-- 🎓 I'm a senior student in Computer Science at Suleyman Demirel University
-- 🧠 I’m currently working at Cerebra.ai Ltd. as Machine Learning Engineer
+    <h1>About me</h>
+- 👋 Hi, I’m @asminabarkhandin<br>
+- 💗 I’m interested in Deep Learning and Computer Vision<br>
+- 🎓 I'm a senior student in Computer Science at Suleyman Demirel University<br>
+- 🧠 I’m currently working at Cerebra.ai Ltd. as Machine Learning Engineer<br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"><br><br>
     :coffee: reach me via <a href="https://telegram.me/zshanabek">telegram</a>
   </samp>
