@@ -1,8 +1,16 @@
-## About me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    ## About me
 - 👋 Hi, I’m @asminabarkhandin
-- 💗 I’m interested in Deep Learning
+- 💗 I’m interested in Deep Learning and Computer Vision
 - 🎓 I'm a senior student in Computer Science at Suleyman Demirel University
 - 🧠 I’m currently working at Cerebra.ai Ltd. as Machine Learning Engineer
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"><br><br>
+    :coffee: reach me via <a href="https://telegram.me/zshanabek">telegram</a>
+  </samp>
+</p>
 
 ## Connect with me  
 <div align="center">
