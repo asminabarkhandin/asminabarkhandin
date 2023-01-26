@@ -1,13 +1,14 @@
-<p align="center">
-  <samp>
-- 👋 Hi, I’m Asmina from KZ<br>
-- 💗 I’m interested in Deep Learning and Computer Vision<br>
-- 🎓 I'm a senior Computer Science student at Suleyman Demirel University<br>
-- 🧠 I’m currently working at Cerebra.ai Ltd. as Machine Learning Engineer<br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="140px" align="center"><br><br>
-    :coffee: reach me via <a href="https://www.linkedin.com/in/asmina-barkhandinova-6540a816b/">linkedin</a>
-  </samp>
-</p>
+<div align='center'>
+   <h1>>Hello, I am Asmina 👋</b> </h1>
+</div>
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/asmina-barkhandinova-6540a816b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@bar.asmina"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>&nbsp;&nbsp;
+ 
+<div align="center">
+<h3> ✨ Asmina Barkhandinova | 💻 Junior DL Engineer | 📍 Kazakhstan , Almaty </h3>
+</div>
 
 
 <!---
