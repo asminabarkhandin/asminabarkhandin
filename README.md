@@ -7,7 +7,7 @@
     <a href="https://medium.com/@bar.asmina"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>&nbsp;&nbsp;
  
 <div align="center">
-<h3> ✨ Asmina Barkhandinova | 💻 Junior DL Engineer | 📍 Kazakhstan , Almaty </h3>
+<h3> ✨ Asmina Barkhandinova | 💻 Junior Machine Learning Engineer | 📍 Kazakhstan , Almaty </h3>
 </div>
 
 
