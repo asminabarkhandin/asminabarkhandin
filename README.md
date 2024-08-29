@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/asmina-barkhandinova-6540a816b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/asmina-barkhandinova/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@bar.asmina"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>&nbsp;&nbsp;
     <a href="https://t.me/itcomkz"><img height="30" src="https://static-00.iconduck.com/assets.00/telegram-icon-256x256-sto927jg.png"></a>&nbsp;&nbsp;
 <div align="center">
